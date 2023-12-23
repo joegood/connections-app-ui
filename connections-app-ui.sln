@@ -9,9 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "connections-app-ui.Core", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BBC0352F-DA5F-45DF-9267-6A0E175C5A60}"
 	ProjectSection(SolutionItems) = preProject
+		doc\planning\Connections_CRUD.md = doc\planning\Connections_CRUD.md
+		doc\planning\Connections_CRUD.png = doc\planning\Connections_CRUD.png
 		doc\planning\Glossary.md = doc\planning\Glossary.md
 		doc\planning\Roadmap.md = doc\planning\Roadmap.md
-		doc\planning\Connections_CRUD.png = doc\planning\Connections_CRUD.png
 	EndProjectSection
 EndProject
 Global
